@@ -1,0 +1,13 @@
+{
+  "name": "cmpe131-sentiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "sentiment": "^5.0.2"
+  }
+}
